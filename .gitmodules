@@ -1,4 +1,7 @@
 [submodule "esp-idf"]
 	path = esp-idf
 	url = https://github.com/espressif/esp-idf.git
-	branch = release/v3.0
+	branch = release/v3.2.1
+[submodule "esp-idf-vmk"]
+	path = esp-idf-vmk
+	url = https://github.com/ViaMonkey/esp-idf-vmk.git
